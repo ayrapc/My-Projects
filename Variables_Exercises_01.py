@@ -2,15 +2,15 @@
 #1. Okay
 #2. Okay
 #3. Create a varaible for each name of the memebers of your family (string):
-moms_name = "Neha Pandit"
+moms_name = "Mom Chemitiganti"
 print(moms_name)
 
 
-dads_name = "Vamsi Chemitiganti"
+dads_name = "Dad Chemitiganti"
 print(dads_name)
 
 
-brothers_name = "Kabir Chemitiganti"
+brothers_name = "Bro Chemitiganti"
 print(brothers_name)
 
 
